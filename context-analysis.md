@@ -1,5 +1,6 @@
 # iic_frontend_task
 
+# Component is inside src folder
 # Context Detection Functions
 isInsideForm(el):
 Checks if the button is inside a form by traversing up the DOM tree. Returns true if a form is found.
